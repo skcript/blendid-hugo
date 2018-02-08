@@ -11,6 +11,11 @@ Blendid's fast Webpack and loads of other features with Hugo's blazingly fast an
 ```sh
 brew install yarn
 ```
+and then of course,
+
+```sh
+brew install hugo
+```
 
 ## Installing
 
@@ -28,7 +33,7 @@ that's it!
 yarn start
 ```
 
-## Deployment
+## Building final files for Deployment
 
 ```sh
 yarn build
